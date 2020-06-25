@@ -1,4 +1,4 @@
-17112149823248484
+17132985376968055
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -66997,6 +66997,27 @@ Coilcraft-MSD1278
 4
 4
 Rays Footprints
+Coilcraft-XAL4040
+
+
+0
+2
+2
+Rays Footprints
+Coilcraft-XFL4020
+
+
+0
+2
+2
+Rays Footprints
+Coilcraft-XGL6060
+
+
+0
+2
+2
+Rays Footprints
 Crystal_SMD_CSM7X
 
 
@@ -67010,6 +67031,13 @@ SMD SMT crystal
 0
 4
 4
+Rays Footprints
+DFN-14-1EP_3x3mm_P0.4mm_EP1.78x2.35mm-6mil-DRC
+DD Package; 14-Lead Plastic DFN (3mm x 3mm) (http://pdfserv.maximintegrated.com/land_patterns/90-0063.PDF)
+DFN 0.40
+0
+19
+15
 Rays Footprints
 DIP-6_W8.89mm_SMDSocket_LongPads
 
@@ -67277,6 +67305,13 @@ MMA8451
 8
 8
 Rays Footprints
+MP8862GQ
+
+
+0
+16
+16
+Rays Footprints
 MPU-6050
 
 
@@ -67340,6 +67375,13 @@ Through hole pin header THT 1x05 2.54mm single row
 4
 4
 Rays Footprints
+Potentiometer_Vishay_TS53YJ_Vertical
+Potentiometer, vertical, Vishay TS53YJ, https://www.vishay.com/docs/51008/ts53.pdf
+Potentiometer vertical Vishay TS53YJ
+0
+3
+3
+Rays Footprints
 Push-Switch-Mom-Tactile-12x12-TS6211T2602AC-EV
 E-Switch KS01Q01 http://spec_sheets.e-switch.com/specs/29-KS01Q01.pdf
 Push Button
@@ -67361,6 +67403,13 @@ resistor 0805
 2
 2
 Rays Footprints
+R_1206_HandSoldering
+Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+Rays Footprints
 R_1210_HandSoldering
 Resistor SMD 1210, hand soldering
 resistor 1210
@@ -67378,6 +67427,13 @@ Rays Footprints
 R_2512_HandSoldering
 
 
+0
+2
+2
+Rays Footprints
+R_Axial_Minimal_KM
+Resistor, Axial_DIN0411 series, Axial, Horizontal, pin pitch=12.7mm, 1W = 1/1W, length*diameter=9.9*3.6mm^2
+Resistor Axial_DIN0411 series Axial Horizontal pin pitch 12.7mm 1W = 1/1W length 9.9mm diameter 3.6mm
 0
 2
 2
@@ -67494,7 +67550,14 @@ SolderJumper_3_Pad
 3
 3
 Rays Footprints
-TO-220-3_Horizontal_Tab0
+Speaker-40mm
+
+
+0
+2
+2
+Rays Footprints
+TO-220-3_Horizontal_Tab4
 TO-220-3, Horizontal, RM 2.54mm
 TO-220-3 Horizontal RM 2.54mm
 0
@@ -67515,12 +67578,26 @@ D2PAK DDPAK TO-263 D2PAK-3 TO-263-3 SOT-404
 4
 3
 Rays Footprints
+TP-Minigrabber-Edge-Via
+
+
+0
+1
+1
+Rays Footprints
 TRANS_SQJ461EP-T1-GE3
 
 
 0
 9
 9
+Rays Footprints
+Texas_Instruments_RMW_QFN-12-2.5x2.5
+
+
+0
+12
+12
 Rays Footprints
 Thermistor-TDK-B5713S0xxxM0xx
 
@@ -67542,6 +67619,13 @@ USB Micro-B Power Only
 0
 4
 4
+Rays Footprints
+USB-Micro-AMPHENOL_10118194-0001LF
+
+
+0
+11
+11
 Rays Footprints
 Wurth-7447462010
 
@@ -67577,6 +67661,13 @@ Wurth-750318431_R00
 0
 14
 14
+Rays Footprints
+Wurth-750342557
+
+
+0
+8
+8
 Rays Footprints
 Wurth_750317114
 

@@ -1,5 +1,5 @@
 Drill report for C:\Users\ray\OneDrive\Projects\kicad\DC-Supply-170V-v1\DC-Supply-170V-v1.kicad_pcb
-Created on 6/16/2020 12:54:13 PM
+Created on 6/25/2020 2:16:12 PM
 
 Copper Layer Stackup:
     =============================================================
@@ -25,6 +25,6 @@ Drill file 'DC-Supply-170V-v1-PTH.drl' contains
 Drill file 'DC-Supply-170V-v1-NPTH.drl' contains
     unplated through holes:
     =============================================================
-    T1  3.50mm  0.138"  (1 hole)
+    T1  3.56mm  0.140"  (1 hole)
 
     Total unplated holes count 1
